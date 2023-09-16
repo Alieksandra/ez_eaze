@@ -1,4 +1,4 @@
-# el_eaze
+# Electricity Eaze
 
 Description:
 El Eaze is a cutting-edge mobile application designed to empower users to make informed decisions about their electricity consumption. With real-time access to hourly electricity prices from the Mälarenergi API and tomorrow's prices available daily around 13:00, El Eaze makes it effortless for users to take control of their energy expenses.
