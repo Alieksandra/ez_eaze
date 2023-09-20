@@ -25,7 +25,7 @@ For any inquiries or assistance, please contact our support team at a.k.smartsol
 
 ## License:
 
-El Ease is provided under a custom license. For full details, please review the [LICENSE](LICENSE.md) file included with the app.
+El Ease is provided under a custom license. For full details, please review the [LICENSE](LICENSE.md).
 
 ## Disclaimer:
 
